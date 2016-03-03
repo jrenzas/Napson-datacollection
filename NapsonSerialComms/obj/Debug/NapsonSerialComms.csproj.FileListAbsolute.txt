@@ -1,0 +1,36 @@
+c:\users\russ r\documents\visual studio 2012\Projects\NapsonSerialComms\NapsonSerialComms\bin\Debug\NapsonSerialComms.exe.config
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComms\NapsonSerialComms\bin\Debug\NapsonSerialComms.exe
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComms\NapsonSerialComms\bin\Debug\NapsonSerialComms.pdb
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComms\NapsonSerialComms\obj\Debug\NapsonSerialComms.csprojResolveAssemblyReference.cache
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComms\NapsonSerialComms\obj\Debug\NapsonSerialComms.MenuForm.resources
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComms\NapsonSerialComms\obj\Debug\NapsonSerialComms.Properties.Resources.resources
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComms\NapsonSerialComms\obj\Debug\NapsonSerialComms.csproj.GenerateResource.Cache
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComms\NapsonSerialComms\obj\Debug\NapsonSerialComms.exe
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComms\NapsonSerialComms\obj\Debug\NapsonSerialComms.pdb
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\bin\Debug\NapsonSerialComms.exe.config
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\obj\Debug\NapsonSerialComms.exe
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\obj\Debug\NapsonSerialComms.pdb
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\bin\Debug\NapsonSerialComms.exe
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\bin\Debug\NapsonSerialComms.pdb
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\obj\Debug\NapsonSerialComms.MenuForm.resources
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\obj\Debug\NapsonSerialComms.Properties.Resources.resources
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\obj\Debug\NapsonSerialComms.csproj.GenerateResource.Cache
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\bin\Debug\NapsonSerialComms.exe.manifest
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\bin\Debug\NapsonSerialComms.application
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\obj\Debug\NapsonSerialComms.exe.manifest
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\obj\Debug\NapsonSerialComms.application
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialCommLimited\NapsonSerialComms\obj\Debug\NapsonSerialComms.csprojResolveAssemblyReference.cache
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\obj\Debug\NapsonSerialComms.csproj.GenerateResource.Cache
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\obj\Debug\NapsonExpanded.MenuForm.resources
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\obj\Debug\NapsonExpanded.Properties.Resources.resources
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\obj\Debug\NapsonSerialComms.csprojResolveAssemblyReference.cache
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\bin\Debug\Napson Data Acquisition v3.0.exe.config
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\bin\Debug\Napson Data Acquisition v3.0.exe.manifest
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\bin\Debug\Napson Data Acquisition v3.0.application
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\bin\Debug\Napson Data Acquisition v3.0.exe
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\bin\Debug\Napson Data Acquisition v3.0.pdb
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\obj\Debug\Napson Data Acquisition v3.0.exe.manifest
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\obj\Debug\Napson Data Acquisition v3.0.application
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\obj\Debug\Napson Data Acquisition v3.0.exe
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\obj\Debug\Napson Data Acquisition v3.0.pdb
+C:\Users\Russ R\Documents\Visual Studio 2012\Projects\NapsonSerialComm_Version2\NapsonSerialComms\obj\Debug\Napson Data Acquisition v3.0.TrustInfo.xml
