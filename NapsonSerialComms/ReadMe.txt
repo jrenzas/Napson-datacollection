@@ -1,7 +1,12 @@
-﻿Project: Napson Data Acquisition v2.51
-Purpose: Improved data collection and mapping from Napson.
+Project: Napson Data Acquisition v3
+Purpose: Improved data collection and mapping from Napson EC-80P.
 Author: Russ Renzas
 Date: March 2015
+
+Language: C#
+IDE Used: Visual Studio Express 2012
+
+Open sourced WITH PERMISSION, because original company it was used at closed (much to my dismay).
 
 Resolved Bugs:
 	- Fixed average and SD when they incorporate bad points
