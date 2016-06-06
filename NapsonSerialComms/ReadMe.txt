@@ -6,7 +6,7 @@ Date: March 2015
 Language: C#
 IDE Used: Visual Studio Express 2012
 
-Open sourced WITH PERMISSION, because original company it was used at closed (much to my dismay).
+Open sourced WITH PERMISSION.
 
 Resolved Bugs:
 	- Fixed average and SD when they incorporate bad points
